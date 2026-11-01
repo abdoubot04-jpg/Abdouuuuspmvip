@@ -4,3 +4,4 @@ uvicorn==0.30.6
 flask
 flask-cors
 httpx
+google-play-scraper
